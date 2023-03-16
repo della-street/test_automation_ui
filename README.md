@@ -1,5 +1,5 @@
 Test Automation
 
-Sausedemo.com: UI testing.
+www.sausedemo.com: UI testing.
 
-Java + JUnit + Selenide
+Java + JUnit5 + Selenide
